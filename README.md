@@ -15,7 +15,7 @@ Este proyecto implementa una **red neuronal de Hopfield** desde cero (sin librer
 ---
 
 ## Archivos principales
-- `Hopfield_Red.ipynb` → código principal  
+- `Red_Neuronal_Hopfield_para_reconocer_Figuras.ipynb` → código principal  
 - `*.csv` → patrones binarios  
 
 
